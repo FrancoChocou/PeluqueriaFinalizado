@@ -1,0 +1,14 @@
+com.idra.gestionpeluqueria
+com.idra.gestionpeluqueria.config
+com.idra.gestionpeluqueria.controller
+com.idra.gestionpeluqueria.dao
+com.idra.gestionpeluqueria.dao.impl
+com.idra.gestionpeluqueria.exception
+com.idra.gestionpeluqueria.model
+com.idra.gestionpeluqueria.model.enums
+com.idra.gestionpeluqueria.service
+com.idra.gestionpeluqueria.service.impl
+com.idra.gestionpeluqueria.util
+com.idra.gestionpeluqueria.view
+com.idra.gestionpeluqueria.view.dialogs
+com.idra.gestionpeluqueria.view.panels
