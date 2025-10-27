@@ -77,35 +77,47 @@ Menú Principal
 El sistema cuenta con una barra de navegación superior con las siguientes secciones:
 
 🏠 Dashboard - Vista principal con estadísticas
+
 👥 Clientes - Gestión completa de clientes
+
 ✂️ Servicios - Administración de servicios
+
 📅 Turnos - Agenda y gestión de turnos
+
 🚪 Salir - Cerrar la aplicación
 
 🏛️ Patrones de Diseño Aplicados
+
 🔹 Singleton (DatabaseConfig)
 Propósito: Garantizar una única instancia de conexión a la base de datos.
 Implementación: La clase DatabaseConfig mantiene una única conexión compartida por toda la aplicación, evitando múltiples conexiones innecesarias.
+
 🔹 MVC (Model-View-Controller)
 Propósito: Separar la lógica de negocio, presentación y control.
 Capas:
 
 Model: Entidades (Cliente, Servicio, Turno) + Enums
+
 View: Frames, Panels y Dialogs (Swing)
+
 Controller: Coordinación entre Vista y Servicios
 
 🔹 DAO (Data Access Object)
 Propósito: Abstraer y encapsular el acceso a datos.
 Implementación: Interfaces DAO + Implementaciones separadas para cada entidad.
+
 🔹 Service Layer
 Propósito: Centralizar la lógica de negocio y validaciones.
 Implementación: Capa intermedia entre Controllers y DAOs con validaciones de negocio.
+
 🔹 Exception Handling Hierarchy
 Propósito: Manejo estructurado de errores por capa.
 Tipos:
 
 DAOException - Errores de persistencia
+
 ServiceException - Errores de lógica de negocio
+
 ValidacionException - Errores de validación de datos
 
 🚀 Próximas Mejoras
