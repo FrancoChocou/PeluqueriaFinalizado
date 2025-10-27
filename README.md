@@ -7,6 +7,7 @@ Sistema de escritorio desarrollado en Java con Swing para la administración com
 Sistema de Gestión de Peluquería es una aplicación de escritorio robusta que implementa una arquitectura en capas (MVC) para crear un sistema mantenible y escalable. El sistema incluye gestión completa de clientes con historial, catálogo de servicios con precios dinámicos, agenda de turnos con validación de disponibilidad, y un dashboard con métricas del negocio en tiempo real.
 
 🎯 Funcionalidades Principales
+
 👥 Gestión de Clientes
 
 ✅ Registro completo de clientes con datos de contacto
@@ -20,6 +21,7 @@ Sistema de Gestión de Peluquería es una aplicación de escritorio robusta que 
 ✅ Historial de fechas de registro
 
 ✂️ Gestión de Servicios
+
 ✅ Catálogo de servicios con categorías (Corte, Tintura, Peinado, etc.)
 
 ✅ Control de precios y duración de cada servicio
@@ -31,6 +33,7 @@ Sistema de Gestión de Peluquería es una aplicación de escritorio robusta que 
 ✅ Búsqueda por nombre o descripción
 
 📅 Gestión de Turnos
+
 ✅ Creación de turnos con fecha y hora específica
 
 ✅ Validación de disponibilidad de horarios
@@ -48,6 +51,7 @@ Sistema de Gestión de Peluquería es una aplicación de escritorio robusta que 
 ✅ Búsqueda por cliente
 
 📊 Dashboard
+
 ✅ Estadísticas en tiempo real
 
 ✅ Total de clientes registrados
@@ -75,7 +79,9 @@ IDE: NetBeans (compatible con IntelliJ IDEA y Eclipse).
 Arquitectura: MVC (Model-View-Controller) en capas.
 
 🎮 Uso de la Aplicación
+
 Menú Principal
+
 El sistema cuenta con una barra de navegación superior con las siguientes secciones:
 
 🏠 Dashboard - Vista principal con estadísticas
