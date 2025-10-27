@@ -144,5 +144,9 @@ ValidacionException - Errores de validación de datos
  
 Email: franco97chocou@outlook.com
 
+Nachoogutierrez452@gmail.com
+
+sergio.bravo.9406@gmail.com 
+
 📄 Licencia
 Este proyecto es de código abierto y está disponible bajo la licencia MIT.
