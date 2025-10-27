@@ -83,9 +83,8 @@ ValidacionException - Errores de validación de datos
 
  Sistema de recordatorios por email/SMS
  Reportes PDF de ventas diarias/mensuales
- Gráficos estadísticos con JFreeChart
  Sistema de usuarios con roles (Admin, Recepcionista)
- Integración con WhatsApp Business API
+ Integración con WhatsApp 
  Backup automático de base de datos
  Sistema de promociones y descuentos
  Módulo de inventario de productos
