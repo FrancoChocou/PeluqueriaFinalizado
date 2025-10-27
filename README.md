@@ -1,7 +1,9 @@
 💈 Sistema de Gestión de Peluquería
+
 Sistema de escritorio desarrollado en Java con Swing para la administración completa de una peluquería. Permite gestionar clientes, servicios, turnos y visualizar estadísticas en tiempo real.
 
 📋 Descripción del Proyecto
+
 Sistema de Gestión de Peluquería es una aplicación de escritorio robusta que implementa una arquitectura en capas (MVC) para crear un sistema mantenible y escalable. El sistema incluye gestión completa de clientes con historial, catálogo de servicios con precios dinámicos, agenda de turnos con validación de disponibilidad, y un dashboard con métricas del negocio en tiempo real.
 
 🎯 Funcionalidades Principales
