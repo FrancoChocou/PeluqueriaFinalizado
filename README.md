@@ -81,19 +81,18 @@ ValidacionException - Errores de validación de datos
 
 🚀 Próximas Mejoras
 
- Sistema de recordatorios por email/SMS
- Reportes PDF de ventas diarias/mensuales
- Sistema de usuarios con roles (Admin, Recepcionista)
- Integración con WhatsApp 
- Backup automático de base de datos
- Sistema de promociones y descuentos
- Módulo de inventario de productos
- Calendario visual para agendar turnos
- Impresión de comprobantes
+ Sistema de recordatorios por email/SMS.
+ Reportes PDF de ventas diarias/mensuales.
+ Sistema de usuarios con roles (Admin, Recepcionista).
+ Integración con WhatsApp.
+ Backup automático de base de datos.
+ Sistema de promociones y descuentos.
+ Módulo de inventario de productos.
+ Calendario visual para agendar turnos.
+ Impresión de comprobantes.
 
  📞 Contacto
-Para consultas o sugerencias sobre el proyecto, puedes contactarme a través de:
-
+ 
 Email: franco97chocou@outlook.com
 
 📄 Licencia
