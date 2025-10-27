@@ -6,44 +6,70 @@ Sistema de Gestión de Peluquería es una aplicación de escritorio robusta que 
 
 🎯 Funcionalidades Principales
 👥 Gestión de Clientes
+
 ✅ Registro completo de clientes con datos de contacto
+
 ✅ Búsqueda por nombre, apellido o teléfono
+
 ✅ Edición y eliminación de clientes
+
 ✅ Validación de datos (teléfono, email)
+
 ✅ Historial de fechas de registro
 
 ✂️ Gestión de Servicios
 ✅ Catálogo de servicios con categorías (Corte, Tintura, Peinado, etc.)
+
 ✅ Control de precios y duración de cada servicio
+
 ✅ Activar/desactivar servicios
+
 ✅ Filtrado por tipo de servicio
+
 ✅ Búsqueda por nombre o descripción
 
 📅 Gestión de Turnos
 ✅ Creación de turnos con fecha y hora específica
+
 ✅ Validación de disponibilidad de horarios
+
 ✅ Estados: Pendiente, Confirmado, Completado, Cancelado, Ausente
+
 ✅ Sistema de pagos: Efectivo, Débito, Crédito, Transferencia
+
 ✅ Control de estado de pago: Pendiente, Pagado, Abonado Parcial
+
 ✅ Cálculo automático de saldo pendiente
+
 ✅ Filtrado por estado y fecha
+
 ✅ Búsqueda por cliente
 
 📊 Dashboard
 ✅ Estadísticas en tiempo real
+
 ✅ Total de clientes registrados
+
 ✅ Servicios activos
+
 ✅ Turnos del día
+
 ✅ Ingresos diarios calculados automáticamente
+
 ✅ Vista detallada de turnos de hoy
 
 🛠️ ¿Qué tecnologías usa?
 
 Lenguaje: Java 8+.
+
 GUI: Java Swing (Nimbus Look and Feel).
+
 Base de Datos: MySQL.
+
 Conexión: JDBC (Java Database Connectivity).
+
 IDE: NetBeans (compatible con IntelliJ IDEA y Eclipse).
+
 Arquitectura: MVC (Model-View-Controller) en capas.
 
 🎮 Uso de la Aplicación
